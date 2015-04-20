@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>84B05D04-05EC-4476-A275-E91279BE8E25</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DDOrderingView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>166AE26B74B18F38CADDA671BF97E1DFA4ADB077</key>
+		<string>https://github.com/imvinodrathod/OrderingView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DDOrderingView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>166AE26B74B18F38CADDA671BF97E1DFA4ADB077</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/imvinodrathod/OrderingView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>166AE26B74B18F38CADDA671BF97E1DFA4ADB077</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>166AE26B74B18F38CADDA671BF97E1DFA4ADB077</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DDOrderingView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
