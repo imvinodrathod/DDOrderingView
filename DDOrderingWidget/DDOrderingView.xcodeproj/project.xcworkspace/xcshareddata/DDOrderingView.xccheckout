@@ -11,17 +11,17 @@
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>166AE26B74B18F38CADDA671BF97E1DFA4ADB077</key>
-		<string>https://github.com/imvinodrathod/OrderingView.git</string>
+		<string>https://github.com/imvinodrathod/DDOrderingView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>DDOrderingView.xcodeproj</string>
+	<string>DDOrderingWidget/DDOrderingView.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>166AE26B74B18F38CADDA671BF97E1DFA4ADB077</key>
-		<string>../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/imvinodrathod/OrderingView.git</string>
+	<string>https://github.com/imvinodrathod/DDOrderingView.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
