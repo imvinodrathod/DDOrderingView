@@ -35,7 +35,7 @@
 -(UIImage *)loadImageWithUrlString:(NSString *)urlString {
     NSURL *url = [NSURL URLWithString:urlString];
     NSData *data = [NSData dataWithContentsOfURL:url];
-    UIImage *image = [UIImage imageWithData:data];
+    UIImage *image = [UIImage imageWithData:data scale:[[UIScreen mainScreen] scale]];
     return image;
 }
 
